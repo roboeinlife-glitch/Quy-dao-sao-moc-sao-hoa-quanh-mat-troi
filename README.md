@@ -1,6 +1,7 @@
-# Quy-dao-sao-moc-sao-hoa-quanh-mat-troi
+# Mô Phỏng Quỹ Đạo Sao Mộc & Sao Hỏa Quanh Mặt Trời ☀️
 
-Đây là một chương trình C++ SFMl được viết bởi Grok AI
+Đây là chương trình C++ sử dụng thư viện **SFML** để vẽ animation quỹ đạo hành tinh.  
+Code được hỗ trợ viết bởi **Grok AI** (xAI).
 
 Lấy cảm hứng từ bài đăng của [Psikoloji Rehberi](https://x.com/pskolojirehberi/status/1454011906742755337)
 
