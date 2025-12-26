@@ -17,6 +17,6 @@ Tải một file gif mặt trời về sau đó dùng ứng dụng cắt hình g
 
 Sau khi đã có ảnh gif tròn, bạn chỉ việc kéo vào vừa khớp với ảnh tĩnh và hoàn thành việc tạo video là xong
 
-Mong nhận được góp ý và chia sẻ từ các bạn
+Mong nhận được góp ý và chia sẻ từ các bạn!
 
 [Trở về trang chủ](https://github.com/roboeinlife-glitch)
